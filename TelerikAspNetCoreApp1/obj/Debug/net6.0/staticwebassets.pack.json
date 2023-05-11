@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\images\\banner1.svg",
+      "PackagePath": "staticwebassets\\images\\banner1.svg"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\images\\banner2.svg",
+      "PackagePath": "staticwebassets\\images\\banner2.svg"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\images\\banner3.svg",
+      "PackagePath": "staticwebassets\\images\\banner3.svg"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\images\\banner4.svg",
+      "PackagePath": "staticwebassets\\images\\banner4.svg"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\js\\site.min.js",
+      "PackagePath": "staticwebassets\\js\\site.min.js"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Keno\\TelerikAspNetCoreApp1\\TelerikAspNetCoreApp1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TelerikAspNetCoreApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TelerikAspNetCoreApp1.props",
+      "PackagePath": "build\\TelerikAspNetCoreApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TelerikAspNetCoreApp1.props",
+      "PackagePath": "buildMultiTargeting\\TelerikAspNetCoreApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TelerikAspNetCoreApp1.props",
+      "PackagePath": "buildTransitive\\TelerikAspNetCoreApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
